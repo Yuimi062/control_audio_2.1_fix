@@ -17,7 +17,7 @@ from aqt.sound import (
 
 import aqt
 from aqt.utils import tooltip
-from PyQt5.QtWidgets import QAction
+from PyQt6.QtGui import QAction
 
 # Configs
 audio_speed = 1.0
